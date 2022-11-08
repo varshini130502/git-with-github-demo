@@ -9,4 +9,4 @@ Disallow:
 # some line
 # this line has been added to demonstrate the usage of "git pull " command
 # this line has been added to demonstrate the usage of "git push" commanid
-# this line has been added to demonstrate ssh protocol
+# this line has been added to demonstrate SSH protocol
